@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**aishwarya-gp544/aishwarya-gp544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aishwarya G P! 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Interested in web development and technology.
+- 🌱 Continuously learning and improving my skills.
+- 🎯 Aspiring IT Professional.
+
+## Technical Skills
+- HTML
+- CSS
+- JavaScript
+- React.js (Basics)
+- Python (Basics)
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aishwarya-gp/
+
+---
+✨ Thank you for visiting my profile!
